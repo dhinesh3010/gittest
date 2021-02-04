@@ -22,6 +22,6 @@ Serial.println("Device Found");
 }
 else
 {
-Serial.println("Hello World!");
+Serial.println("No Device Found");
 }
 }
